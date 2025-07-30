@@ -1,2 +1,4 @@
 # DotNetPokemonBase
-Is a base for future games of pokemon
+
+This repository serves as a base for future **Pokémon** games.
+
